@@ -21,12 +21,10 @@ Programing Languages 1 Final Project
 
 -But at the end, there was a problem while closing the game. Canvas problem occurred. We finished the game by writing the canvas codes and a few codes that will solve the problem in the closing of this game in the while code, and now we have prepared for the presentation.
 
-## İmported Modules:
+##  Modules:
 turtle\
 winsound
 
-# Modules
-turtle winsound
 
 ## Runnung & Usage
 
