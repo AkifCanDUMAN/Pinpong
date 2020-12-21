@@ -21,14 +21,20 @@ Programing Languages 1 Final Project
 
 -But at the end, there was a problem while closing the game. Canvas problem occurred. We finished the game by writing the canvas codes and a few codes that will solve the problem in the closing of this game in the while code, and now we have prepared for the presentation.
 
+## İmported Modules:
+turtle\
+winsound
+
 # Modules
 turtle winsound
 
-# Runnung & Usage
-Import modules turtle and winsound also put the audiofile to one folder with code
+## Runnung & Usage
 
-After should appeat window with pong game
+Import modules turtle and winsound
+also put the audiofile [audio](pongbounce.wav) to one folder with code
 
+After running should appear window with pong game
 
+![](2020-12-21_11-22-48.png)
 
 Thank you, this was our first computer game!
