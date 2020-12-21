@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=ZiZdOqJtVFY
 
 Programing Languages 1 Final Project
 
-# Pinpong Game Feedback;
+# Pinpong Game Code General Information;
 
 -Before making this game, we normally tried it with pygame, but due to some bugs and we couldn't fix it, we had to use the Turtle library and we started the game production phase.
 
